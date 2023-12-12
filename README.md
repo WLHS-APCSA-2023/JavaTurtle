@@ -1,6 +1,6 @@
 # Java Turtle
 
-Materials are from [https://introcs.cs.princeton.edu/java/stdlib/](https://introcs.cs.princeton.edu/java/stdlib/)
+Materials are from [https://introcs.cs.princeton.edu/java/stdlib/](https://introcs.cs.princeton.edu/java/stdlib/) and [https://introcs.cs.princeton.edu/java/32class/](https://introcs.cs.princeton.edu/java/32class/)
 
 ## Instructions for VS Code
 
